@@ -151,7 +151,7 @@ STATICFILES_FINDERS = [
 
 
 MEDIA_URL = 'media/'
-MEDIA_ROOT = '/home/djangomo/hamidbek.uz/django/media'
+MEDIA_ROOT = '/home/hamidbek/hamidbek.uz/django/media'
 
 # for local
 # MEDIA_ROOT = BASE_DIR / 'media/'
